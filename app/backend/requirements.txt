@@ -399,7 +399,7 @@ tiktoken==0.8.0
     #   opentelemetry-instrumentation-openai
 tomli==2.2.1
     # via hypercorn
-tqdm==4.66.5
+tqdm==4.67.1
     # via openai
 types-beautifulsoup4==4.12.0.20240511
     # via -r requirements.in
